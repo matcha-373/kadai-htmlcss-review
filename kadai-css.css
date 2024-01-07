@@ -3,15 +3,15 @@ header{
     background-color:#ffcccc;
 }
 #wrapper{
-    margin: 0 auto;
+    width:1000px;
     display: flex;
 }
 #main {
-    width:700px;
+    width: 700px;
     background-color: #ccffcc;
 }
 #menu {
-    width:300px;
+    width: 300px;
     background-color: #ccccff;
 }
 footer{
